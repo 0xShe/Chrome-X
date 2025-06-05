@@ -108,7 +108,7 @@ Chrome-X 是一个用于后渗透持久化与票据监听的平台。
 
 
 ```
-
+https://github.com/0xShe/Chrome-X
 ```
 
 ## 免责声明 🆘
