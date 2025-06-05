@@ -51,6 +51,8 @@ Chrome-X 是一个用于后渗透持久化与票据监听的平台。
 
 2. 配置数据库文件 /config/config.php
 
+3. 记得配置https 这是非常重要的 不然会导致https的站点无法生效
+
    ```js
    // MySQL数据库配置
    define('DB_HOST', 'localhost');
